@@ -10,7 +10,8 @@ This project was created to practice **frontend layout, responsive design, and b
 You can view the live project here:
 
 ```
-https://sahib2306.github.io/apple-landing-page/```
+https://sahib2306.github.io/apple-landing-page/
+```
 
 
 ---
